@@ -13,7 +13,7 @@ public class CountChar {
     }
 
     /**
-     * Count non space character in string
+     * Count non space character in string...
      *
      * @param str String to count the characters
      * @return number of character in the specified string
