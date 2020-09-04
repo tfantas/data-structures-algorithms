@@ -1,6 +1,6 @@
 package searches;
 
-import java.util.*;
+import java.util.Date;
 
 class PerfectBinarySearch{
 
@@ -28,6 +28,9 @@ class PerfectBinarySearch{
 
     public static void main(String[] args)
     {
+    	
+    	System.out.println("############" + new Date());
+    	
         PerfectBinarySearch BinarySearch = new PerfectBinarySearch();
         int[] array = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         assert BinarySearch.binarySearch(array, -1) == -1;
