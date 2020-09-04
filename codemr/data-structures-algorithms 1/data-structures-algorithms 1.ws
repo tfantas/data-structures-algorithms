@@ -1,0 +1,1 @@
+{"data-structures-algorithms":{"name":"data-structures-algorithms","packages":{"searches":{"packageName":"searches","isAll":false,"classes":["Lsearches/PerfectBinarySearch;"]},"others":{"packageName":"others","isAll":false,"classes":["Lothers/CountChar;"]}}}}
